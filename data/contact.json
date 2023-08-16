@@ -1,0 +1,14 @@
+{
+    "nombre_empresa": "Rolling Code",
+    "correo_empresa": "hi@rollingcode.co",
+    "telefono_empresa": "381-5783030",
+    "direccion_empresa": {
+      "calle": "Gral. Paz 576 Piso 9 of 2 ",
+      "ciudad": "San Miguel de Tucumán",
+      "pais": "Argentina"
+    },
+    "redes_sociales": {
+      "pagina_principal": "https://rollingcode.co/en/home-english/"
+    }
+  }
+  
